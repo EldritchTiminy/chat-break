@@ -3,9 +3,7 @@ A reacreation of the popular game "Breakout" in JavaScript, HTML, and CSS.
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
 - [Roadmap](#roadmap)
 
