@@ -13,7 +13,7 @@ A reacreation of the popular game "Breakout" in JavaScript, HTML, and CSS.
 ## Usage
 - Control the paddle with the mouse or the arrow keys. Bounce the ball at the blocks to "break" them.
 - Paddles can add or subtract "spin" from the ball depending on which side of the paddle the ball hits.
-- Pause or Restart the game.
+- Pause or Restart the game using the coresponding buttons below the game window.
 
 ## Tech Stack
 - **HTML5**
